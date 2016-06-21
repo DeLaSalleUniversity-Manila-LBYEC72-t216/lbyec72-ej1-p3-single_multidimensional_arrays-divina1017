@@ -5,3 +5,4 @@ Missing is the codes for Statistical Algorithm and Matrix Operations
 ![](a.jpg)
 ![](1.jpg)
 ![](2.jpg)
+![](3.jpg)
