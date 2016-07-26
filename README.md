@@ -15,3 +15,7 @@ Missing is the codes for Statistical Algorithm and Matrix Operations
 ![](gh7.jpg)
 ![](gh8.jpg)
 ![](gh9.jpg)
+![](n1.jpg)
+![](n2.jpg)
+![](n3.jpg)
+
